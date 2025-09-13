@@ -100,32 +100,32 @@ nav a:hover {
 
 /* ===== パン紹介のスタイル ===== */
 /* セクション */
-.photo {
+.by-us {
   padding: 30px;
   background-image: url(img/background-2.png);
 }
-.photo img {
+.by-us img {
   border-radius: 32px;
 }
 /* h2見出し */
-.photo h2 {
+.by-us h2 {
   color: #ffffff;
   border-color: #ffcc11;
 }
 
 /* h3見出し */
-.photo h3 {
+.by-us h3 {
   color: #896939;
 }
 
 /* 段落 */
-.photo p {
+.by-us p {
   color: #ffffff;
   clear: left; /* 画像や箱の回り込みをやめる */
 }
 
 /* 小さな箱 */
-.menu {
+.project {
   background-color: #ffffff;
   width: 240px;
   padding: 15px;
